@@ -1,0 +1,79 @@
+If you give 3 - 5 hrs daily then it will take 10 to 14 months 
+
+Linux Essentials :- Bash, ZSH (2 - 3 weeks) 
+    File system :- cp mv rm ls
+    Permissions :- chmod chown
+    Processes :- ps top kill 
+    packages :- apt yum dnf
+
+Networking :- Wireshark (2 weeks)
+    OSI and TCP/IP models
+    IP addressing and subnetting
+    DNS and DHCP
+    HTTP HTTPs FTP and SSH
+    Firewalls and Security Groups
+    Ping, Traceroute and netstat tools
+ 
+GIT :-  (1 - 2 weeks)
+    clone, commit, push and pull
+    Branching and Merging
+    Resolve and merge conflicts
+    Working with remote repositories
+
+Programming language :- Python, Ruby, Go (4 - 6 weeks)
+    Syntax and Datastructure
+    Modules and packages
+    write and execute scritps
+    work with Files 
+    error handling
+    automation script wirting
+
+Cloud Providers :- AWS, Azure and GCP (4 - 6 weeks)
+    Launch, configure and manage virtual servers
+    Manager and store data
+    manager users, groups and roles
+    setups and manage isolated networks
+
+Containerization :- Docker (3 - 4 weeks)
+    create docker images
+    starting, stoping and managing containers
+    write docker Files
+    run multi-container apps using docker compose
+
+Continuous Integration and Continuous Deployment :- CI/CD Jenkins and GithubActions (3 - 4 weeks)
+    Create and manage Jenkins pipeline
+    write jenkins file
+    Integrate automated tests
+    Automate the build process 
+    Automate the deployment
+
+Conatiner Orchestration :- Kubernetes, Kustomize and HELM (4 - 6 weeks)
+    Overall Architecture
+    Key Components
+    Manage Resources
+    Scale Applications
+    Networking models(2 - 3 weeks)
+
+Networking and Infrastructure :- NGINX (3 - 4 weeks)
+    Reverse Proxies and Load Balancing :- NGINX
+        configure NGINX and a Reverse proxy
+        configure it to act as forward proxy
+         caching strategies
+         configure firewall and security groups
+
+Configuration Management :- Ansilble, Puppet and Chef (3 - 4 weeks)
+    Write Ansilble books
+    use roles and Modules
+    Manager Variables and Templates
+
+Infrastructure as Code :- Terraform, Open Tofu, Cloud Formation and Pulumi (3 - 4 weeks)
+    Basic Concepts
+    Terraform configuration files
+    Terraform Modules
+    Advanced Concepts
+
+Monitoring and Logging :- Prometheus, Grafana, Loki, ELK stack and Fluentd (3 - 4 weeks)
+    Architecture and Data models
+    Collect metrics
+    Write queries
+    Setup alerts
