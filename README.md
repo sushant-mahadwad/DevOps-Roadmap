@@ -130,7 +130,7 @@ If you dedicate **3–5 hours daily**, this roadmap can typically be completed i
 - Use Roles and Modules
 - Manage Variables and Templates
 
-![Configuration Management](images/config-management.png)
+<!--![Configuration Management](images/config-management.png)-->
 
 ---
 
